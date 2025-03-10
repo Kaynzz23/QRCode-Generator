@@ -14,7 +14,7 @@ Antes de começar, verifique se você possui as seguintes ferramentas instaladas
 Comece clonando este repositório para sua máquina local. Abra o terminal e execute o seguinte comando:
 
 ```bash
-git clone https://github.com/kaynzz23/QRcode-generator-api.git
+git clone https://github.com/Kaynzz23/QRCode-Generator.git
 ```
 
 Isso criará uma cópia local do repositório em seu ambiente.
@@ -57,7 +57,7 @@ Se desejar publicar suas modificações em um repositório remoto no GitHub, sig
 3. Execute os seguintes comandos:
 
 ```bash
-git remote set-url origin https://github.com/kaynzz23/QRcode-generator-api.git
+git remote set-url origin https://github.com/Kaynzz23/QRCode-Generator.git
 git add .
 git commit -m "Adicionar minhas modificações"
 git push -u origin master
