@@ -1,6 +1,6 @@
 # {QRCode Generator API}
 
-Este repositório contém um projeto desenvolvido utilizando Node.js. Neste arquivo README, você encontrará um guia passo a passo para abrir o projeto em seu ambiente local.
+Este repositório contém um projeto desenvolvido a fins de estudo utilizando Node.js. Neste arquivo README, você encontrará um guia passo a passo para abrir o projeto em seu ambiente local.
 
 ## Pré-requisitos
 
